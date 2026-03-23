@@ -28,13 +28,9 @@ Aqui está uma prévia do layout da aplicação:
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🔗 Acesse o projeto
 
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/travelgram.git
-
-2. Abra o arquivo index.html no navegador
+Acesse o projeto por aqui: [Travelgam](https://travelgam.vercel.app)
 
 ---
 
